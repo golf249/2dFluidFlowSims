@@ -1,3 +1,4 @@
+%
 # 2dFluidFlowSims
 
 Computationally calculated the flow field around a NACA 4-digit series using a simple Panel Code in MATLAB. The focus is on potential flow, assuming the fluid is incompressible, inviscid, and irrotational. The simulation aims to model the flow field by discretizing the airfoil surface into multiple panels, each affecting the surrounding flow.
